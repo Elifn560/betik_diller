@@ -1,0 +1,8 @@
+=== RAPOR ===
+Geçerli kayıt sayısı: 5
+Ortalama yaş: 30.0
+Şehirlere göre dağılım:
+  - Trabzon: 2
+  - İstanbul: 1
+  - Ankara: 1
+  - İzmir: 1
